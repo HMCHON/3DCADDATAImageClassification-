@@ -31,5 +31,3 @@ def exe():
        #Confusion_matrix = [[1,2,3],[2,3,4],[3,4,5]]
         Confusion_matrix = np.load(csv_name)
         heat_map(Confusion_matrix, fig_save_dir)
-        
-exe()
