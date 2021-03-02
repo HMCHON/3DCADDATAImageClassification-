@@ -26,6 +26,8 @@
 - training : CNN 모델을 학습시키는 함수 스크립트
 - predict : 학습한 CNN 모델의 학습 성능을 검증하는 함수 스크립트
 - all_result : confusion matrix를 이용하여 검증한 학습 성능을 가시화 하고, 수치로 산출하는 함수 스크립트.
+<img width="400" alt="epoch01_prediction" src="https://user-images.githubusercontent.com/49745654/109636317-c411b780-7b8e-11eb-91f6-a5b49d9917b5.png">
+<img width="400" alt="predict" src="https://user-images.githubusercontent.com/49745654/109636494-fcb19100-7b8e-11eb-90fe-7654ce6cfa02.png">
 
 -----------------------------------------------------------------------------------------------------------------
 
